@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Letrero
+comment1.params=c\ msj
+comment1.target=Letrero(int,\ java.lang.String)
+comment2.params=
+comment2.target=void\ dibuja()
+comment3.params=y
+comment3.target=void\ incrementa(int)
+comment4.params=x
+comment4.target=void\ decrementa(int)
+comment5.params=
+comment5.target=int\ obtenerValor()
+numComments=6

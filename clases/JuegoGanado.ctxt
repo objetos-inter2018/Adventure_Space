@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=JuegoGanado
+comment0.text=\r\n\ Clase\ JuegoGanado\r\n
+comment1.params=
+comment1.target=JuegoGanado()
+comment1.text=\r\n\ Constructor\ Clase\ JuegoGanado\r\n\ Permite\ que\ cuando\ se\ gana\ en\ el\ juego\ aparezca\ un\ letrero\ de\:\ "Ganaste"\r\n
+numComments=2
