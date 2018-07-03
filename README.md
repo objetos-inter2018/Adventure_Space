@@ -47,6 +47,8 @@ El autor(es) del proyecto son:
 https://youtu.be/XTBEBInZePE
 
 ### Pagina
+No me deja publicar mi pagina el programa Greenfoot.
+Me marca hasta el final "Publish Failed".
 
 ### Materia(s)
 - Programación Orientada a Objetos
