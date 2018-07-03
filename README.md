@@ -37,7 +37,7 @@ En el nivel 3 es  donde deberás derrotar al jefe y al resto de los enemigos de 
 * Rapido
 
 ### Diagrama de clases
-![Diagrama de clases](https://github.com/objetos-inter2018/Adventure_Space/blob/master/images2/diagrama%20clases.jpg)
+![Diagrama de clases](https://github.com/objetos-inter2018/Adventure_Space/blob/master/images/diagrama de clases.jpg)
 
 ### Autor(es)
 El autor(es) del proyecto son:
